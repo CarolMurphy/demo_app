@@ -1,5 +1,7 @@
 == README
-
+This is the demo_app from chapter 2 of the ruby on rails tutorial by Michael hertl.
+Created using scaffold instead of building from scratch.
+See README first_app for link details.
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
